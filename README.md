@@ -13,10 +13,10 @@
 ## Advanced Usage
 #### Advanced functionalities are not available right now,still in testing phase.ie cool functions such as drop downs and elements implemented by jquery.
 
-Technologies used
-The creation of this program was heavily dependent on:
+# Technologies used
+## The creation of this program was heavily dependent on:
 
-IMAGINATION!!!
+### IMAGINATION!!!
 CSS :to style the page
 HTML :to make the page active in the web.
 Troubleshooting ,help, Bugs and Issues
