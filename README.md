@@ -1,6 +1,6 @@
 # My  PORTFOLIO
 # Preview
-####  my PORTFOLIO defines who KELVIN ADEU  is.
+####  my portfolio defines who KELVIN ADEU  is.
 ## To check out my-profile, click on the link below:
 
 
