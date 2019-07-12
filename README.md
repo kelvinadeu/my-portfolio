@@ -17,18 +17,18 @@
 ## The creation of this program was heavily dependent on:
 
 ### IMAGINATION!!!
-CSS :to style the page
-HTML :to make the page active in the web.
-Troubleshooting ,help, Bugs and Issues
-The source code of this program is already available on github.That is the best platform to ask questions ,post your issues with the program or even contribute to make the program better.If bugs are found direct your queries to my github account.Also feel free to whack the bugs!!
+### CSS :to style the page
+### HTML :to make the page active in the web.
+### Troubleshooting ,help, Bugs and Issues
+### The source code of this program is already available on github.That is the best platform ### to ask questions ,post your issues with the program or even contribute to make the program better.If bugs are found direct your queries to my github account.Also feel free to whack the bugs!!
 
-Click here to view program source code on github
+## Click here to view program source code on github
 
-About
-My-profile houses the basics about who daniel mugambi is,my likes,languages i love,hobbies etc my-profile was created by and is maintained by Daniel Mugambi & associates,
+## About
+#### My-profile houses the basics about who KELVIN  ADEU is,my likes,languages i          love,hobbies etc my-profile was created by and is maintained by me
 
-Copyright and License
-MIT License
+#### Copyright and License
+#### MIT License
 
 Copyright (c) [2019] [DANIEL MUGAMBI]
 
